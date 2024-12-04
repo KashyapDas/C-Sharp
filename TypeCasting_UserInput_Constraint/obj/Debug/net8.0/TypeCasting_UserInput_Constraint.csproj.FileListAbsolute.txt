@@ -1,0 +1,15 @@
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\bin\Debug\net8.0\TypeCasting_UserInput_Constraint.exe
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\bin\Debug\net8.0\TypeCasting_UserInput_Constraint.deps.json
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\bin\Debug\net8.0\TypeCasting_UserInput_Constraint.runtimeconfig.json
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\bin\Debug\net8.0\TypeCasting_UserInput_Constraint.dll
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\bin\Debug\net8.0\TypeCasting_UserInput_Constraint.pdb
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.AssemblyInfoInputs.cache
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.AssemblyInfo.cs
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.csproj.CoreCompileInputs.cache
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.sourcelink.json
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.dll
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\refint\TypeCasting_UserInput_Constraint.dll
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.pdb
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\TypeCasting_UserInput_Constraint.genruntimeconfig.cache
+D:\Projects\Upload\C Sharp\TypeCasting_UserInput_Constraint\obj\Debug\net8.0\ref\TypeCasting_UserInput_Constraint.dll
