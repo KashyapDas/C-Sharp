@@ -1,0 +1,14 @@
+D:\Projects\Upload\C Sharp\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Projects\Upload\C Sharp\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Projects\Upload\C Sharp\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Projects\Upload\C Sharp\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Projects\Upload\C Sharp\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Projects\Upload\C Sharp\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

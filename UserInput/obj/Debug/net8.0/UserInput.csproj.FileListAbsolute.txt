@@ -1,0 +1,14 @@
+D:\Projects\Upload\C Sharp\UserInput\bin\Debug\net8.0\UserInput.exe
+D:\Projects\Upload\C Sharp\UserInput\bin\Debug\net8.0\UserInput.deps.json
+D:\Projects\Upload\C Sharp\UserInput\bin\Debug\net8.0\UserInput.runtimeconfig.json
+D:\Projects\Upload\C Sharp\UserInput\bin\Debug\net8.0\UserInput.dll
+D:\Projects\Upload\C Sharp\UserInput\bin\Debug\net8.0\UserInput.pdb
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfoInputs.cache
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfo.cs
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.csproj.CoreCompileInputs.cache
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.dll
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\refint\UserInput.dll
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.pdb
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\UserInput.genruntimeconfig.cache
+D:\Projects\Upload\C Sharp\UserInput\obj\Debug\net8.0\ref\UserInput.dll
