@@ -1,0 +1,15 @@
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\bin\Debug\net8.0\MathClass_C_Sharp.exe
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\bin\Debug\net8.0\MathClass_C_Sharp.deps.json
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\bin\Debug\net8.0\MathClass_C_Sharp.runtimeconfig.json
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\bin\Debug\net8.0\MathClass_C_Sharp.dll
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\bin\Debug\net8.0\MathClass_C_Sharp.pdb
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.AssemblyInfoInputs.cache
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.AssemblyInfo.cs
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.sourcelink.json
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.dll
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\refint\MathClass_C_Sharp.dll
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.pdb
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\MathClass_C_Sharp.genruntimeconfig.cache
+D:\Projects\Upload\C Sharp\MathClass_C_Sharp\obj\Debug\net8.0\ref\MathClass_C_Sharp.dll
